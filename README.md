@@ -23,7 +23,9 @@ Before clicking on deploy to heroku just click on fork and star just below
     <img src="https://img.shields.io/github/forks/LushaiMusic/VCsMusicBot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/LushaiMusic/GroupMusicBot">
+  <a href="https://github.com/shivam9335
+
+/GroupMusicBot">
     <img src="https://img.shields.io/github/stars/LushaiMusic/VCsMusicBot?style=social">
   </a>
 </p>
@@ -39,7 +41,7 @@ Before clicking on deploy to heroku just click on fork and star just below
 
 ### Deploy To Heroku 📡</h4>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Shivam9335/VCsMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Shivam9335/shivam9335"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
 - Click the below button to watch the video tutorial on deploying
 
@@ -54,8 +56,8 @@ Before clicking on deploy to heroku just click on fork and star just below
 ### Deploy to VPS 🏃
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/LushaiMusic/VCsMusicBot
-$ cd VCsMusicBot
+$ git clone https://github.com/shivam9335/shivam9335
+$ cd shivam9335
 # Upgrade sources
 # Install All Requirements 
 $ pip3 install -r requirements.txt
@@ -123,7 +125,7 @@ $ python3 -m VCsMusicBot
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add [@VCsMusicPlayer](https://t.me/VCsMusicPlayer) as Channel admin with full perms
+ 3. Add [@vipmusic](https://t.me/vip_world_2022) as Channel admin with full perms
  4. add helper to channel
  5. Simply send commands in your group.
 
@@ -141,3 +143,4 @@ If you donlt like to play in linked channel:
 #### Special Credits
 - [Zaute-Km](https://github.com/Zaute-Km): LushaiMusic Developer
 - [Rojserbest](http://github.com/rojserbest): Callsmusic Developer
+- [shivam9335](http://GitHub.com/shivam9335): vipmusic Developer
