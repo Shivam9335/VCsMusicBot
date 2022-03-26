@@ -19,11 +19,11 @@
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/shivam9335/VCsMusicBot/fork">
+  <a href="https://github.com/VCsMusicBot/VCsMusicBot/fork">
     <img src="https://img.shields.io/github/forks/LushaiMusic/VCsMusicBot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/shivam9335
+  <a href="https://github.com/VCsMusicBot
 
 /GroupMusicBot">
     <img src="https://img.shields.io/github/stars/LushaiMusic/VCsMusicBot?style=social">
@@ -125,7 +125,7 @@ $ python3 -m VCsMusicBot
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add [@vipmusic](https://t.me/vip_world_2022) as Channel admin with full perms
+ 3. Add [@VCsMusicBot](https://t.me/VCsMusicBot) as Channel admin with full perms
  4. add helper to channel
  5. Simply send commands in your group.
 
